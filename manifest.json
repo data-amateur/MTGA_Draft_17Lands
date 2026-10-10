@@ -1,0 +1,64 @@
+{
+  "datasets": {
+    "HOB_PickTwoDraft_All": {
+      "filename": "HOB_PickTwoDraft_All_Data.json.gz",
+      "hash": "5c9f951d2289671b20673f3acd35225efe3ea6b49551c5de6a9337eb577371d7",
+      "size_kb": 138,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_PickTwoDraft_Top": {
+      "filename": "HOB_PickTwoDraft_Top_Data.json.gz",
+      "hash": "3ba564e64f1d7104052d9e1ba3800bff4168c6089d104cb999912e0de5b52baf",
+      "size_kb": 83,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_TradDraft_All": {
+      "filename": "HOB_TradDraft_All_Data.json.gz",
+      "hash": "f262300c9391240092804320c8bbfcbdcc4fe86b791e20be9f91c5dc0d7f9e61",
+      "size_kb": 119,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_TradDraft_Top": {
+      "filename": "HOB_TradDraft_Top_Data.json.gz",
+      "hash": "a08811a1a4933f3ff666130016e79af7205b14eadd466fc7753a842cf3acf121",
+      "size_kb": 83,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_ContenderDraft_All": {
+      "filename": "HOB_ContenderDraft_All_Data.json.gz",
+      "hash": "44fc4e0ee557b7040b8174aa0cf4eeb75a1682e2bee7e17b0e9d6297e7195092",
+      "size_kb": 111,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_ContenderDraft_Top": {
+      "filename": "HOB_ContenderDraft_Top_Data.json.gz",
+      "hash": "1b84f4ee7705a65d25d64b8288a86453aaf05a24897794bf09bebc0f2c2d69f3",
+      "size_kb": 76,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_PremierDraft_All": {
+      "filename": "HOB_PremierDraft_All_Data.json.gz",
+      "hash": "6a018ab66b229e0f50b86f4ba8c07ed01032f368a11a647490ad373e874edb4b",
+      "size_kb": 148,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    },
+    "HOB_PremierDraft_Top": {
+      "filename": "HOB_PremierDraft_Top_Data.json.gz",
+      "hash": "204d27c69a76bd873f354c5256301aca99bc501efdd994ca11a967dce652cee1",
+      "size_kb": 87,
+      "start_date": "2026-08-11",
+      "end_date": "2026-09-29"
+    }
+  },
+  "updated_at": "2026-09-29T16:15:45.206629+00:00",
+  "active_sets": [
+    "HOB"
+  ]
+}
